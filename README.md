@@ -6,8 +6,8 @@ Streamlit chatbot with Supabase backend⚡
 
 ## Streamlit Front-end
 
-![](img/supachat.png)
+![](img/supachat2.png)
 
 ## Supabase Back-end
 
-![](img/supabase.png)
+![](img/supabase2.png)
